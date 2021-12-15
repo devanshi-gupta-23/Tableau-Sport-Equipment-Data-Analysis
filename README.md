@@ -13,4 +13,4 @@ https://public.tableau.com/app/profile/devanshi.gupta6884/viz/sportdataanalysis/
 It's a link of my Tableau Public profile where I have uploaded this project.
 
 # Summary:
-I have performed all the 12 tasks that was written in the pdf. It includes charts, report
+I have performed all the 12 tasks that was written in the pdf. It includes charts and reports.
